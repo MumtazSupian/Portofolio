@@ -1,12 +1,12 @@
 @media (max-width: 760px) {
     .oh img {
-        width: 500px;
-        height: 500px;
+        width: 400px;
+        height: 400px;
         text-align: center;
-        margin-right: 15%;
+        margin-left: 25%;
     }
     .sosial-links {
-        transform: translateY(-600px);
+        transform: translateY(-50px) translateX(180px);
     }
 
     .oke {
@@ -69,6 +69,16 @@
         margin: 30px;
         height: 350px;
         width: 450px;
-        margin-left: 18%;
+        margin-right: 10%;
+    }
+
+    .pe li{
+        font-size: 10px;
+        padding-right: 0px;
+        margin-right: 0px;
+    }
+
+    .header-logo {
+        font-size: 25px;
     }
 }
